@@ -1,0 +1,23 @@
+.logo-collapse-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .demo-logo-vertical {
+    margin-right: 10px;
+  }
+
+  .demo-logo-container{
+    background: #3b83c1;
+    height: 65px;
+    display: flex;
+    align-items: center;
+  }
+
+  .collapse-button{
+    margin-left: 20px;
+  }
+
+  .demo-logo-vertical{
+    margin-left: 40px;
+  }
