@@ -7,7 +7,7 @@ import { Navigate } from 'react-router-dom';
 import RedirectLogin from './pages/login/redirectLogin';
 import Main from './pages/main';
 import UserPage from './pages/main/components/User';
-import QuyenPage from './pages/main/components/Quyền';
+import QuyenPage from './pages/main/components/Quyen';
 import Dashboard from './pages/main/components/dashboard';
 
 //================================================
